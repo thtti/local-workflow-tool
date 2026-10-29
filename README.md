@@ -37,6 +37,3 @@ This project is part of a modular, local-first ecosystem aimed at providing seam
 - [ ] **Phase 4:** Modular integration with local calendar & finance tools
 
 ---
-
-## 📄 License
-MIT License — Free and open-source for personal local execution.
