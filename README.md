@@ -1,5 +1,5 @@
 # local-workflow-tool
-A custom local productivity &amp; workflow tool built with Python.
+A custom local productivity &amp; workflow tool built with Python, HTML, CSS and JavaScript.
 # Local Workflow Tool
 
 I'm building a local-first productivity and workflow application with a Python back-end and an HTML/CSS/JavaScript front-end. It runs entirely offline using local storage (JSON/SQLite), prioritizing data privacy, low resource overhead, and seamless personal workflows without external dependencies.
